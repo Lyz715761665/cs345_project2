@@ -11,7 +11,7 @@ The project we are proposing is a photo editor that allows you to remove pimples
 Tools: wxpython, tkinter, OpenCV
 
 
-Risks
+Risks:
 How to reconcile the backend with the GUI
 Work in pairs initially, then later on work altogether to make it interconnected
 Image compatibility (.jpg, .png, .jpeg, .gif)
@@ -23,18 +23,18 @@ Create ranges of varying skin colors
 Smooth image response to input (no lag)
 Not sure yet
 
-Ways to integrate SE principles and lessons from Project 1
+Ways to integrate SE principles and lessons from Project 1:
 Use github/git for code sharing and Messenger for communication
 The project is very scalable, starting with 1 main function to be incorporated in the software, and more features/functions added if time 
 Decide on a consistent style for variable/function names before we start coding
 Allow time for refactoring the code after it reaches the required functionalities
 Modularizing the project in a way that allows for parts of the project to be independent. E.g. if the GUI has a problem, the backend should not need to be modified.
 
-User Testing
+User Testing:
 We will each share our GUI with 5 people and let them play around with it, while taking notes on the intuitiveness and likability of our overall design.
 Additionally, since we are making a portrait editing software, we will use pictures of people with varying skin colors.
 
-Timeline: Monday - Sunday
+Timeline: Monday - Sunday:
 March 25 - March 31
 Written Update 1 due March 28 (Thursday)
 Yuki (backend) - make blurring functions to be tested on pimple picture
